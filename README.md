@@ -7,6 +7,11 @@ Autor: Fury Shop
 Version: 1.0.0
 Creation date: 04-01-2025
 
+**add this to youre server.cfg**
+ensure FURY_FIGHTSTICK
+ensure FURY_SAI
+ensure FURY_SAMOURAISWORD
+
 --Ox Inventory -> data -> weapons.lua
 -- add
 
